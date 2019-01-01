@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1546339403 source:/home/czf/CWorkSpace/mydis/main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<string.h>
+	"mydis_main.h"
+	"mydis_operator.h"
+
+1546339134 /home/czf/CWorkSpace/mydis/mydis_main.h
+	<string>
+	<vector>
+	"mydis_operator.h"
+
+1546339403 /home/czf/CWorkSpace/mydis/mydis_operator.h
+	<string>
+	<vector>
+
